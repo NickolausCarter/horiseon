@@ -4,6 +4,9 @@
 
 We are a top tier marketing agency that specializes in Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Are you tired of an expensive marketing budget that isn't generating any real leads or driving brand awareness? Not only will we optimize your marketing strategy, but we can also help drive costs down over time. Please visit us at https://nickolauscarter.github.io/horiseon/ for more information.
 
+![image](https://user-images.githubusercontent.com/73920328/101294064-a2e13b00-37da-11eb-9c8c-a3d12fc5178d.png)
+<br>
+![image](https://user-images.githubusercontent.com/73920328/101294121-efc51180-37da-11eb-9106-bfd54bcd6a37.png)
 ## Website Update Log - 6 DEC 2020:
 
 ### Changes to index.html:
