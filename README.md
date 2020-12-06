@@ -2,7 +2,7 @@
 
 ## Welcome to the Landing Page for Horiseon Social Solution Services, Inc.
 
-We are a top tier marketing agency that specializes in Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Are you tired of an expensive marketing budget that isn't generating any real leads or driving brand awareness? Not only will we optimize your marketing strategy, but we can also help drive costs down over time. Please visit us at https://nickolauscarter.github.io/urban-octo-telegram/ for more information.
+We are a top tier marketing agency that specializes in Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Are you tired of an expensive marketing budget that isn't generating any real leads or driving brand awareness? Not only will we optimize your marketing strategy, but we can also help drive costs down over time. Please visit us at https://nickolauscarter.github.io/horiseon/ for more information.
 
 ## Website Update Log - 6 DEC 2020:
 
